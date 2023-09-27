@@ -1,0 +1,10 @@
+body{
+    font-family:Georgia, serif,"Gill Sans", sans-serif,
+    sans-serif,serif,cursive,system-ui;
+    
+  }
+  .contact-img{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+  }
